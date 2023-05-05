@@ -3,3 +3,4 @@
 # IAC_AP1 Projeto !! **Ana Caroline Strasburg de Vargas** 
 # IAC_AP1 Projeto !! **João Vitor Rodrigues**
 # IAC_AP1 Projeto !! **Leandro Santos Dalpiaz**
+# IAC_AP1 Projeto !! **Eduardo de Mello Pereira**
